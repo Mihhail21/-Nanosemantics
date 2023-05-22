@@ -1,0 +1,18 @@
+@import "reset";
+@import "variables/global.scss";
+
+.app {
+  font: var(--font-m);
+  background: var(--bg-color);
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+$accentColor: #9068fe;
+$secondaryColor:#368ae3;
+$secondaryhover: #4e84bd;
+
+
+
